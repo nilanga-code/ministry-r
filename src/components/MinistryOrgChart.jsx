@@ -299,6 +299,17 @@ const MinistryOrgChart = () => {
                   ))}
                 </div>
               </div>
+              {/* Chief Accountant */}
+              <div>
+                <h2 className="text-2xl font-bold text-center text-gray-800 mb-8">
+                  Leagel Officer
+                </h2>
+                <div className="flex justify-center">
+                  <div className="w-80">
+                    <StaffCard person={staffData.leagelofficer} />
+                  </div>
+                </div>
+              </div>
             </div>
           )}
         </div>

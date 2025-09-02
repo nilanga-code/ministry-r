@@ -30,6 +30,8 @@ import thilini from '../assets/thilini.jpeg';
 import malkanthi from '../assets/malkanthi.jpg';
 import jayamali from '../assets/jayamali.jpeg';
 import gamini from '../assets/gamini.jpeg';
+import nspdi from '../assets/nspd-i.jpeg';
+import nspdi2 from '../assets/nspd-s.jpeg';
 
 
 export const staffData = {
@@ -107,7 +109,7 @@ export const staffData = {
       name: "Sisira Kumara",
       position: "Director General - SLAS (SPG)",
       department: "Rural Development Bureau",
-      education: "MSc in Management",
+      education: "-",
       phone: "071 4398009",
       email: "sisiku@gmail.com",
       joiningDate: "1 year & 9 months",
@@ -263,7 +265,7 @@ export const staffData = {
       name: "J. C.  Wickramaarachchi",
       position: "Director - SLAS II ",
       department: "NSPD",
-      education: "-",
+      education: "MA(Social Work)-NISD/ Service Management executive Diploma - university of Colombo/ Diploma in Administrative Management - SLIDA",
       phone: "071 8178867",
       email: "mssnspd@gmail.com",
       joiningDate: "11 years",
@@ -418,16 +420,27 @@ export const staffData = {
     },
     {
       id: "acc-002",
-      name: "Ms. Priyanka Wijesinghe",
-      position: "Accountant",
-      department: "Accounts Division",
-      education: "BSc in Accounting, CIMA",
-      phone: "+94 11 234 5704",
-      email: "priyanka@ministry.gov.lk",
-      joiningDate: "2020-01-15",
-      image: "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=150&h-150&fit=crop&crop=face"
+      name: "I.M.I.C. Ilangakoon",
+      position: "Accountant - SLAcS III",
+      department: "NSPD Division",
+      education: "MA Applied Ecomomics UoP/ ICASL- Intermediate level ",
+      phone: "-",
+      email: "-",
+      joiningDate: "5 years and 2 months",
+      image: nspdi
     }
-  ]
+  ],
+  leagelofficer: {
+    id: "lf-001",
+    name: "L. Sherin Jansen",
+    position: "Leagel Officer III",
+    department: "NSPD Division",
+    education: "LLB(Hons)/ Attorney-at-Law/ Dip Business Certificate in ICT Law/ AAT 2nd stage ",
+    phone: "-",
+    email: "-",
+    joiningDate: "1 year",
+    image: nspdi2
+  },
 };
 
 // Helper function to get all staff as a flat array
@@ -441,7 +454,8 @@ export const getAllStaff = () => {
     staffData.chiefAccountant,
     staffData.chiefInternalAuditor,
     ...staffData.deputyDirectors,
-    ...staffData.accountants
+    ...staffData.accountants,
+    staffData.leagelofficer
   ];
 };
 
