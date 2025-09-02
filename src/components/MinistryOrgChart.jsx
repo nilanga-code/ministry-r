@@ -200,7 +200,7 @@ const MinistryOrgChart = () => {
 
               {/* Secretary - Top Level */}
               <div className="flex justify-center">
-                <div className="w-80">
+                <div className="w-120">
                   <StaffCard person={staffData.secretary} isSecretary={true} />
                 </div>
               </div>
@@ -221,10 +221,13 @@ const MinistryOrgChart = () => {
                 <h2 className="text-2xl font-bold text-center text-gray-800 mb-8">
                   Director General
                 </h2>
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
-                  {staffData.directorGenerals.map((dg, index) => (
+                <div className="flex justify-center">
+                  <div className='w-80'>
+                    {staffData.directorGenerals.map((dg, index) => (
                     <StaffCard key={index} person={dg} />
                   ))}
+                  </div>
+                  
                 </div>
               </div>
 
@@ -299,7 +302,7 @@ const MinistryOrgChart = () => {
                   ))}
                 </div>
               </div>
-              {/* Chief Accountant */}
+              {/* Leagel Officer*/}
               <div>
                 <h2 className="text-2xl font-bold text-center text-gray-800 mb-8">
                   Leagel Officer

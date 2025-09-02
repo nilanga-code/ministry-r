@@ -396,13 +396,13 @@ export const staffData = {
     },
     {
       id: "dd-010",
-      name: "Ms. Ruwani Dias",
-      position: "Deputy Director - Public Relations",
-      department: "Public Relations",
-      education: "MA in Communication",
-      phone: "+94 11 234 5703",
-      email: "ruwani@ministry.gov.lk",
-      joiningDate: "2020-01-15",
+      name: "Rasika Rathnayaka",
+      position: "Assitant Director ",
+      department: "NSPD Division",
+      education: "-",
+      phone: "071 6183827",
+      email: "mssnspd@gmail.com",
+      joiningDate: "-",
       image: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h-150&fit=crop&crop=face"
     }
   ],
