@@ -9,32 +9,32 @@ const HiringPage = () => {
   const jobPositions = [
     {
       id: 1,
-      title: "Senior Rural Development Officer",
-      department: "Rural Development Division",
+      title: "Director General",
+      department: "Planning Division",
       type: "Full-time",
       location: "Colombo, Sri Lanka",
-      salary: "LKR 120,000 - 150,000",
+      salary: "-",
       experience: "5+ years",
       deadline: "2025-10-15"
     },
     {
       id: 2,
-      title: "Social Security Analyst",
-      department: "Social Security Division",
+      title: "Director General",
+      department: "World Food Programme",
       type: "Full-time",
-      location: "Kandy, Sri Lanka",
-      salary: "LKR 100,000 - 130,000",
-      experience: "3+ years",
+      location: "Colombo, Sri Lanka",
+      salary: "-",
+      experience: "5+ years",
       deadline: "2025-10-20"
     },
     {
       id: 3,
-      title: "Community Empowerment Coordinator",
-      department: "Community Empowerment Division",
+      title: "CFO",
+      department: "Account Division",
       type: "Full-time",
-      location: "Gampaha, Sri Lanka",
-      salary: "LKR 90,000 - 120,000",
-      experience: "4+ years",
+      location: "Colombo, Sri Lanka",
+      salary: "-",
+      experience: "5+ years",
       deadline: "2025-10-10"
     }
   ];
@@ -250,9 +250,9 @@ const HiringPage = () => {
             
             <div>
               <h3 className="text-lg font-semibold mb-4">Contact Information</h3>
-              <p className="text-gray-300">Email: hr@ministry.gov.lk</p>
-              <p className="text-gray-300">Phone: +94 11 234 5700</p>
-              <p className="text-gray-300">Address: 123 Government Complex, Colombo, Sri Lanka</p>
+              <p className="text-gray-300">Email: rdsscesecretary@sltnet.lk</p>
+              <p className="text-gray-300">Phone: +94 112 887 349</p>
+              <p className="text-gray-300">Address: 01st Floor, Stage II, Sethsiripaya, Baththaramulla, Sri Lanka.</p>
             </div>
           </div>
           
