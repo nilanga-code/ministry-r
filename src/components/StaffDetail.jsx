@@ -1,5 +1,5 @@
 // components/StaffDetail.jsx
-import React from 'react';
+import React, { useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { Phone, User, GraduationCap, Building, ArrowLeft, Mail, Clock } from 'lucide-react';
 
@@ -11,6 +11,10 @@ const StaffDetail = () => {
   
   // Find the staff member by name slug
   const staffMember = findStaffByNameSlug(staffName);
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
 
   if (!staffMember) {
     return (
