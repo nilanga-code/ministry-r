@@ -32,6 +32,7 @@ import jayamali from '../assets/jayamali.jpeg';
 import gamini from '../assets/gamini.jpeg';
 import nspdi from '../assets/nspd-i.jpeg';
 import nspdi2 from '../assets/nspd-s.jpeg';
+import rasika from '../assets/rasika.jpeg';
 
 
 export const staffData = {
@@ -210,7 +211,7 @@ export const staffData = {
       name: "R.D.P Wedikkara",
       position: "Director - SLAS I",
       department: "counceling Division",
-      education: "-",
+      education: "Master of Economics - University of Ruhuna/ Diploma in Productivity - NPD",
       phone: "071 4436958",
       email: "-",
       joiningDate: "3 years",
@@ -397,13 +398,13 @@ export const staffData = {
     {
       id: "dd-010",
       name: "Rasika Rathnayaka",
-      position: "Assitant Director ",
+      position: "Assitant Director - SLAS III",
       department: "NSPD Division",
-      education: "-",
+      education: "B.com (Special) - University of Jayawardanapura",
       phone: "071 6183827",
       email: "mssnspd@gmail.com",
-      joiningDate: "-",
-      image: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h-150&fit=crop&crop=face"
+      joiningDate: "1 year and 6 months",
+      image: rasika
     }
   ],
   accountants: [
