@@ -102,7 +102,7 @@ export const staffData = {
     position: "Chief Financial Officer",
     department: "Finance Division",
     education: "-",
-    phone: "0771967832",
+    phone: "077-1967832",
     email: "wmdb0673@gmail.com",
     joiningDate: "3 weeks",
     image: darmasiri
