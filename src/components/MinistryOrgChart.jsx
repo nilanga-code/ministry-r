@@ -232,7 +232,7 @@ const MinistryOrgChart = () => {
               </div>
 
               {/* Third Level - CFO */}
-              {/* <div>
+              <div>
                 <h2 className="text-2xl font-bold text-center text-gray-800 mb-8">
                   Chief Financial Officer (CFO)
                 </h2>
@@ -241,7 +241,7 @@ const MinistryOrgChart = () => {
                     <StaffCard person={staffData.cfo} />
                   </div>
                 </div>
-              </div> */}
+              </div>
 
               {/* Directors */}
               <div>

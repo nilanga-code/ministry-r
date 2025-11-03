@@ -33,6 +33,9 @@ import gamini from '../assets/gamini.jpeg';
 import nspdi from '../assets/nspd-i.jpeg';
 import nspdi2 from '../assets/nspd-s.jpeg';
 import rasika from '../assets/rasika.jpeg';
+import ruwaith from '../assets/ruwaith.jpg';
+import darmasiri from '../assets/darmasiri.jpg';
+import chathura from '../assets/chathura.jpg';
 
 
 export const staffData = {
@@ -95,14 +98,14 @@ export const staffData = {
   ],
   cfo: {
     id: "cfo-001",
-    name: "Lakmini",
+    name: "W. M. Dharmasiri Bandara",
     position: "Chief Financial Officer",
     department: "Finance Division",
-    education: "MBA Finance, ACCA",
-    phone: "+94 11 234 5672",
-    email: "lakmini@ministry.gov.lk",
-    joiningDate: "2020-01-15",
-    image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face"
+    education: "-",
+    phone: "0771967832",
+    email: "wmdb0673@gmail.com",
+    joiningDate: "3 weeks",
+    image: darmasiri
   },
   directorGenerals: [
     {
@@ -271,6 +274,17 @@ export const staffData = {
       email: "mssnspd@gmail.com",
       joiningDate: "11 years",
       image: jayamali
+    },
+    {
+      id: "dir-013",
+      name: "K. Chathura Mihidum",
+      position: "Director - SLAS I",
+      department: "National Secretariat for Elders",
+      education: "MA in Public Management- International University of Japan",
+      phone: "071 8579369",
+      email: "kcmihidum@gmail.com",
+      joiningDate: "1 year and 03 months",
+      image: chathura
     }
   ],
   chiefAccountant: {
@@ -405,7 +419,18 @@ export const staffData = {
       email: "mssnspd@gmail.com",
       joiningDate: "1 year and 6 months",
       image: rasika
-    }
+    },
+     {
+      id: "dd-011",
+      name: "Mohammed Ruwaith",
+      position: "Deputy Director - SLPS II",
+      department: "RDTRI",
+      education: "Master Degree",
+      phone: "0773641890",
+      email: "ruwaith@gmail.com",
+      joiningDate: "3 weeks",
+      image: ruwaith
+    },
   ],
   accountants: [
     {
