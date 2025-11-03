@@ -221,12 +221,12 @@ const MinistryOrgChart = () => {
                 <h2 className="text-2xl font-bold text-center text-gray-800 mb-8">
                   Director General
                 </h2>
-                <div className="flex justify-center">
-                  <div className='w-80'>
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-7xl mx-auto">
+                 
                     {staffData.directorGenerals.map((dg, index) => (
                     <StaffCard key={index} person={dg} />
                   ))}
-                  </div>
+                 
                   
                 </div>
               </div>

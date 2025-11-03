@@ -120,17 +120,41 @@ export const staffData = {
       joiningDate: "1 year & 9 months",
       image: sisira
     },
-    // {
-    //   id: "dg-002",
-    //   name: "Mr. Planning",
-    //   position: "Director General - Administration",
-    //   department: "Administration Division",
-    //   education: "MBA in Public Administration",
-    //   phone: "+94 11 234 5684",
-    //   email: "planning@ministry.gov.lk",
-    //   joiningDate: "2020-01-15",
-    //   image: "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=150&h=150&fit=crop&crop=face"
-    // }
+    {
+      id: "dg-002",
+      name: "Mr. Planning",
+      position: "Director General - Administration",
+      department: "Administration Division",
+      education: "MBA in Public Administration",
+      phone: "+94 11 234 5684",
+      email: "planning@ministry.gov.lk",
+      joiningDate: "2020-01-15",
+      image: "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=150&h=150&fit=crop&crop=face"
+    }
+    ,
+    {
+      id: "dg-003",
+      name: "Mr. WFP",
+      position: "Director General - Administration",
+      department: "WFP Division",
+      education: "MBA in Public Administration",
+      phone: "+94 11 234 5684",
+      email: "planning@ministry.gov.lk",
+      joiningDate: "2020-01-15",
+      image: "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=150&h=150&fit=crop&crop=face"
+    }
+    ,
+    {
+      id: "dg-002",
+      name: "Mr. Samurdhi",
+      position: "Director General",
+      department: "Samurdhi Division",
+      education: "MBA in Public Administration",
+      phone: "+94 11 234 5684",
+      email: "planning@ministry.gov.lk",
+      joiningDate: "2020-01-15",
+      image: "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=150&h=150&fit=crop&crop=face"
+    },
   ],
   directors: [
     {
