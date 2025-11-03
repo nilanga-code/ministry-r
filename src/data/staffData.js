@@ -35,7 +35,7 @@ import nspdi2 from '../assets/nspd-s.jpeg';
 import rasika from '../assets/rasika.jpeg';
 import ruwaith from '../assets/ruwaith.jpg';
 import darmasiri from '../assets/darmasiri.jpg';
-import chathura from '../assets/chathura.jpg';
+//import chathura from '../assets/chathura.jpg';
 
 
 export const staffData = {
@@ -275,17 +275,17 @@ export const staffData = {
       joiningDate: "11 years",
       image: jayamali
     },
-    {
-      id: "dir-013",
-      name: "K. Chathura Mihidum",
-      position: "Director - SLAS I",
-      department: "National Secretariat for Elders",
-      education: "MA in Public Management- International University of Japan",
-      phone: "071 8579369",
-      email: "kcmihidum@gmail.com",
-      joiningDate: "1 year and 03 months",
-      image: chathura
-    }
+    // {
+    //   id: "dir-013",
+    //   name: "K. Chathura Mihidum",
+    //   position: "Director - SLAS I",
+    //   department: "National Secretariat for Elders",
+    //   education: "MA in Public Management- International University of Japan",
+    //   phone: "071 8579369",
+    //   email: "kcmihidum@gmail.com",
+    //   joiningDate: "1 year and 03 months",
+    //   image: chathura
+    // }
   ],
   chiefAccountant: {
     id: "ca-001",
