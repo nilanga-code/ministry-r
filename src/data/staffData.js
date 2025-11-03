@@ -35,7 +35,8 @@ import nspdi2 from '../assets/nspd-s.jpeg';
 import rasika from '../assets/rasika.jpeg';
 import ruwaith from '../assets/ruwaith.jpg';
 import darmasiri from '../assets/darmasiri.jpg';
-import chathura from '../assets/chathura.jpg';
+import mihidum from '../assets/mihidum.jpg';
+
 
 
 export const staffData = {
@@ -284,8 +285,8 @@ export const staffData = {
       phone: "071 8579369",
       email: "kcmihidum@gmail.com",
       joiningDate: "1 year and 03 months",
-      image: chathura
-    }
+      image: mihidum
+    },
   ],
   chiefAccountant: {
     id: "ca-001",
