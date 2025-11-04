@@ -36,6 +36,8 @@ import rasika from '../assets/rasika.jpeg';
 import ruwaith from '../assets/ruwaith.jpg';
 import darmasiri from '../assets/darmasiri.jpg';
 import mihidum from '../assets/mihidum.jpg';
+import kaluarachchi from '../assets/kaluarachchi.jpg';
+import sakunthala from '../assets/sakunthala.jpg';
 
 
 
@@ -145,15 +147,15 @@ export const staffData = {
     }
     ,
     {
-      id: "dg-002",
-      name: "Mr. Samurdhi",
-      position: "Director General",
+      id: "dg-004",
+      name: "C. D. Kaluarachchi",
+      position: "Director General - SLAS (SPG)",
       department: "Samurdhi Division",
-      education: "MBA in Public Administration",
-      phone: "+94 11 234 5684",
-      email: "planning@ministry.gov.lk",
-      joiningDate: "2020-01-15",
-      image: "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=150&h=150&fit=crop&crop=face"
+      education: "MA (Sociology)",
+      phone: "071-8087854",
+      email: "cdkaluarachchi2000@gmail.com",
+      joiningDate: "05 years",
+      image: kaluarachchi
     },
   ],
   directors: [
@@ -455,6 +457,17 @@ export const staffData = {
       email: "ruwaith@gmail.com",
       joiningDate: "3 weeks",
       image: ruwaith
+    },
+     {
+      id: "dd-012",
+      name: "Sakunthala Rukmali Ratiyala",
+      position: "Assitant Director - SLPS III",
+      department: "NSPD",
+      education: "Bachelor of Business Administration",
+      phone: "070-1895016",
+      email: "sakunthalarukmaliratiyala@gmail.com",
+      joiningDate: "01 month",
+      image: sakunthala
     },
   ],
   accountants: [
