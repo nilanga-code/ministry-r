@@ -29,7 +29,7 @@ import darmasena from '../assets/darmasena.jpeg';
 import thilini from '../assets/thilini.jpeg';
 import malkanthi from '../assets/malkanthi.jpg';
 import jayamali from '../assets/jayamali.jpeg';
-import gamini from '../assets/gamini.jpeg';
+import gamini from '../assets/gamini.jpg';
 import nspdi from '../assets/nspd-i.jpeg';
 import nspdi2 from '../assets/nspd-s.jpeg';
 import rasika from '../assets/rasika.jpeg';
@@ -95,7 +95,7 @@ export const staffData = {
       education: "-",
       phone: "077 3109419",
       email: "gamini@ministry.gov.lk",
-      joiningDate: "-",
+      joiningDate: "1 year & 7 months",
       image: gamini
     }
   ],
@@ -500,8 +500,8 @@ export const staffData = {
     position: "Leagel Officer III",
     department: "NSPD Division",
     education: "LLB(Hons)/ Attorney-at-Law/ Dip Business Certificate in ICT Law/ AAT 2nd stage ",
-    phone: "-",
-    email: "-",
+    phone: "0711661799",
+    email: "Sherin.attorney@gmail.com",
     joiningDate: "1 year",
     image: nspdi2
   },
