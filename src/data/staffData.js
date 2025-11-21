@@ -38,6 +38,7 @@ import darmasiri from '../assets/darmasiri.jpg';
 import mihidum from '../assets/mihidum.jpg';
 import kaluarachchi from '../assets/kaluarachchi.jpg';
 import sakunthala from '../assets/sakunthala.jpg';
+import menaka from '../assets/menaka.jpg';
 
 
 
@@ -69,7 +70,7 @@ export const staffData = {
       id: "addsec-002",
       name: "Nalika Piyasena",
       position: "Additional Secretary - SLAS (SPG)",
-      department: "Rural Development Division",
+      department: "Community Empowerment Division",
       education: "-",
       phone: "071-8009440",
       email: "htrnpiyasena@gmail.com",
@@ -78,20 +79,20 @@ export const staffData = {
     },
     {
       id: "addsec-003",
-      name: "Hema Perera",
+      name: "Menaka Herath",
       position: "Additional Secretary - SLAS (SPG)",
-      department: "Social Security Division",
+      department: "Rural Development Division",
       education: "-",
-      phone: "077 3504602",
-      email: "hahperera@gmail.com",
+      phone: "-",
+      email: "-",
       joiningDate: "-",
-      image: hema
+      image: menaka
     },
     {
       id: "addsec-004",
       name: "Gamini Wijesinghe",
       position: "Additional Secretary - SLAS (SPG)",
-      department: "Community Empowerment Division",
+      department: "Social Security Division",
       education: "-",
       phone: "077 3109419",
       email: "gamini@ministry.gov.lk",
