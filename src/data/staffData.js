@@ -39,6 +39,8 @@ import mihidum from '../assets/mihidum.jpg';
 import kaluarachchi from '../assets/kaluarachchi.jpg';
 import sakunthala from '../assets/sakunthala.jpg';
 import menaka from '../assets/menaka.jpg';
+import ayodhya from '../assets/ayodhya.jpg';
+import thiwanka from '../assets/thiwanka.jpg';
 
 
 
@@ -261,14 +263,14 @@ export const staffData = {
     },
     {
       id: "dir-010",
-      name: "P. J. D. Fernando",
+      name: "W. Ayodhya S. Jayawardana",
       position: "Senior Assistant Secretary - SLAS I",
       department: "Admin",
-      education: "Master of Public Management - Sri Lanka Institute of Development Administration",
-      phone: "071-9886982",
-      email: "jeewanthiefdo@yahoo.com",
-      joiningDate: "10 years & 2 months",
-      image: jeewanthi
+      education: "-",
+      phone: "-",
+      email: "-",
+      joiningDate: "-",
+      image: ayodhya
     },
     {
       id: "dir-011",
